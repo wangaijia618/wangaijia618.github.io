@@ -808,3 +808,45 @@ fieldset {
         font-size: 10px;
     }
 }
+
+
+/*^^^^^^^^^^ skills ^^^^^^^^^^*/
+.mu-service-content {
+    display: inline;
+    float: left;
+    margin-top: 70px;
+    width: 100%;
+  }
+
+  .mu-service-content-single {
+    background-color: #f8f8f8;
+    display: inline;
+    float: left;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 25px 10px;
+    width: 100%;
+  }
+
+  .mu-service-icon-box {
+    font-size: 30px;
+    margin-bottom: 20px;
+    display: inline-block;
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    line-height: 75px;
+  }
+
+  .mu-service-content-single h4 {
+    margin-bottom: 20px;
+    font-size: 20px;
+  }
+
+  .mu-service-content-single p {
+    font-size: 14px;
+    margin-bottom: 0;
+    color: #555;
+    letter-spacing: 0.5px;
+  }
