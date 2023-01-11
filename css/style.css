@@ -850,3 +850,12 @@ fieldset {
     color: #555;
     letter-spacing: 0.5px;
   }
+
+
+  .project-link{
+    font-size: 20px;
+    display: block;
+    color: purple;
+    margin: 10px 10px
+
+  }
